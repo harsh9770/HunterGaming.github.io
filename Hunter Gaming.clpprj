@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="E:\Hunter gaming-\Hunter Gaming.clpprj">
+ <settings>
+  <PM_URL><![CDATA[C:/xampp/htdocs/website/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[C:/xampp/htdocs/website/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="E:\Hunter gaming-\index.html"/>
+  <file name="E:\Hunter gaming-\about.html"/>
+  <file name="E:\Hunter gaming-\contact.html"/>
+  <file name="E:\Hunter gaming-\gallery.html"/>
+  <file name="E:\Hunter gaming-\reviews.html"/>
+  <file name="E:\Hunter gaming-\single.html"/>
+  <file name="E:\Hunter gaming-\typo.html"/>
+  <file name="E:\Hunter gaming-\css\style.css"/>
+  <file name="E:\Hunter gaming-\css\lightbox.css"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <errors version="1.3">
+  <errfile name="E:\Hunter gaming-\css\style.css">
+   <error val="3;12;61;12;2502;1;"/>
+   <error val="3;16;55;16;2502;1;"/>
+   <error val="3;20;58;20;2502;1;"/>
+   <error val="1;772;26;772;2502;1;"/>
+   <error val="13;821;19;821;2501;1;"/>
+   <error val="28;1074;31;1074;2501;1;"/>
+  </errfile>
+  <errfile name="E:\Hunter gaming-\css\bootstrap.css">
+   <error val="2;269;56;269;2502;1;"/>
+   <error val="2;270;386;270;2502;1;"/>
+   <error val="6;2989;33;2989;2502;1;"/>
+   <error val="2;4996;6;4996;2502;1;"/>
+  </errfile>
+  <errfile name="E:\Hunter gaming-\index.html">
+   <error val="91;241;107;241;2002;1;"/>
+  </errfile>
+  <errfile name="E:\Hunter gaming-\contact.html">
+   <error val="97;104;113;104;2002;1;"/>
+  </errfile>
+ </errors>
+ <cakedata/>
+ <dplmenupath/>
+ <laravael/>
+ <smartyassings/>
+ <twigtemplate/>
+ <yiidata/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="E:\Hunter gaming-\js\responsiveslides.min.js" crc="1598591670000"/>
+  <file name="E:\Hunter gaming-\js\lightbox-plus-jquery.min.js" crc="1598591670000"/>
+  <file name="E:\Hunter gaming-\js\jquery.min.js" crc="1598591670000"/>
+  <file name="E:\Hunter gaming-\js\jquery.flexisel.js" crc="1598591670000"/>
+  <file name="E:\Hunter gaming-\js\bootstrap.js" crc="1598591670000"/>
+  <file name="E:\Hunter gaming-\css\style.css" crc="1598628845947"/>
+  <file name="E:\Hunter gaming-\css\lightbox.css" crc="1598591656000"/>
+  <file name="E:\Hunter gaming-\css\bootstrap.css" crc="1598591656000"/>
+  <file name="E:\Hunter gaming-\typo.html" crc="1598628761204"/>
+  <file name="E:\Hunter gaming-\starter-license-W3Layouts.txt" crc="1598591671000"/>
+  <file name="E:\Hunter gaming-\single.html" crc="1598798183355"/>
+  <file name="E:\Hunter gaming-\reviews.html" crc="1598798145275"/>
+  <file name="E:\Hunter gaming-\index.html" crc="1599884740148"/>
+  <file name="E:\Hunter gaming-\gallery.html" crc="1598798134461"/>
+  <file name="E:\Hunter gaming-\contact.html" crc="1598624544828"/>
+  <file name="E:\Hunter gaming-\about.html" crc="1598798100282"/>
+ </filescache>
+</project>
